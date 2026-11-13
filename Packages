@@ -1,0 +1,17 @@
+Package: local.icontint15.26base
+Name: IconTint15
+Version: 0.3.4~test1
+Architecture: iphoneos-arm64
+Maintainer: @nowme77
+Author: @nowme77
+Section: Tweaks
+Depends: firmware (>= 15.0), firmware (<< 16.0), mobilesubstrate, preferenceloader
+Conflicts: com.ngkhoi.26home, local.icontint15
+Replaces: com.ngkhoi.26home
+Description: Experimental iOS 18-style icon customization for iOS 15, based on 26Home.
+Installed-Size: 77979
+Filename: debs/IconTint15_0.3.4-test1_macOS_iphoneos-arm64.deb
+Size: 76088864
+SHA256: 32c94d70aea35bd88ff02d11ee42b9063935447025987a2060c4e43c41934ed2
+Icon: https://raw.githubusercontent.com/nowme777/homescreen18-for-15ios/codex/ios18-for-ios15/branding/icon.png
+SileoDepiction: https://raw.githubusercontent.com/nowme777/homescreen18-for-15ios/codex/ios18-for-ios15/branding/depiction.json
