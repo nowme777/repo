@@ -1,16 +1,16 @@
 Package: local.icontint15.26base
-Version: 1.0.3
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: nowme
-Installed-Size: 83499
+Installed-Size: 83516
 Depends: firmware (>= 15.0), firmware (<< 16.0), mobilesubstrate, preferenceloader
 Conflicts: com.ngkhoi.26home, local.icontint15
 Replaces: com.ngkhoi.26home
-Filename: debs/local.icontint15.26base_1.0.3_iphoneos-arm64.deb
-Size: 77444528
-MD5sum: c2ed541b031eecc2df6ca48eacd96d53
-SHA1: a564f1df36112b8872d791da5a73f6250ce2bad6
-SHA256: f3ad83e1dbd5b1a83f7ba6d6f02b72d380dd5fbc17c42ac876fab21fe06bf4b3
+Filename: debs/local.icontint15.26base_1.1_iphoneos-arm64.deb
+Size: 77450272
+MD5sum: c66ab095fbd53e8c699a7727afd25a83
+SHA1: 85dc7a06d726bb3cc80ec3bed19a16be1d699ed4
+SHA256: 4d282ed8bdcd60e5f7704c7038e2159a31a3c84a58bcb3295a32a31eb503a946
 Section: Tweaks
 Description: iOS 18-style icon customization for iOS 15, based on 26Home.
 Author: nowme
